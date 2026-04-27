@@ -22,4 +22,5 @@ This is a simple C program to manage student records using structures.
 ```
 
 ## 👨‍💻 Author
-Your Name
+nandha
+
